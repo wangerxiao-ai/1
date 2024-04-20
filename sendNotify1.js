@@ -26,7 +26,7 @@ let GOBOT_QQ = ''; // 如果GOBOT_URL设置 /send_private_msg 则需要填入 us
 // =======================================微信server酱通知设置区域===========================================
 //此处填你申请的SCKEY.
 //(环境变量名 PUSH_KEY)
-let SCKEY = '';
+let SCKEY = 'SCT245723T3cfxyAFrHIeuPNN9CHkJQ50c';
 
 // =======================================Bark App通知设置区域===========================================
 //此处填你BarkAPP的信息(IP/设备码，例如：https://api.day.app/XXXXXXXX)
@@ -88,7 +88,7 @@ let PUSH_PLUS_USER = '';
 // =======================================wxpush设置区域=======================================
 //官方文档：https://wxpusher.zjiecode.com/
 //WX_PUSH_TOKEN：微信扫码登录后一对一推送
-let WX_PUSH_TOKEN = 'AT_l2zR8LFfpdPUtaKNrVI3yBjRWyF9MaXa';
+let WX_PUSH_TOKEN = 'AT_levVfNc7uESJqIroRY4KxVvG4R7Chuxd';
 
 
 //==========================云端环境变量的判断与接收=========================
